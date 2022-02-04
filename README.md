@@ -1,6 +1,4 @@
 
-## Description
-
 ## Installation
 
 ```bash
